@@ -126,6 +126,3 @@ Password: kunal123
 - Convert system into a web application  
 - Add JWT-based authentication  
 - Implement live chat support  
-
-
-Just tell me!
